@@ -335,7 +335,7 @@ let g:solarized_visibility="high"
 
 " ================================= Ctrl-p =====================================
 " See ~/.gvimrc as well
-NeoBundle "git://github.com/kien/ctrlp.vim.git"
+NeoBundle "git://github.com/ctrlpvim/ctrlp.vim.git"
 source ~/.vim/pluginRc/ctrlPVimRc
 " ==============================================================================
 
